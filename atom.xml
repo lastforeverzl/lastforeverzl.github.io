@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://lastforeverzl.github.io/atom.xml" rel="self"/>
   <link href="http://lastforeverzl.github.io/"/>
-  <updated>2014-03-24T14:29:37-04:00</updated>
+  <updated>2014-03-24T14:55:30-04:00</updated>
   <id>http://lastforeverzl.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://lastforeverzl.github.io/blog/2014/03/24/first-post/"/>
+    <updated>2014-03-24T14:49:49-04:00</updated>
+    <id>http://lastforeverzl.github.io/blog/2014/03/24/first-post</id>
+    <content type="html"><![CDATA[<p>First Post
+<img class="center" src="http://lastforeverzl.github.io/images/1.jpg" title="image" alt="images"></p>
+]]></content>
+  </entry>
   
 </feed>
